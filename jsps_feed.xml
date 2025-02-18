@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>日本学術振興会 新着情報</title>
+    <link>https://www.jsps.go.jp/news/index.html</link>
+    <description>日本学術振興会のニュース、イベント、募集案内をお届けするRSSフィード</description>
+    <atom:link href="https://www.jsps.go.jp/news/index.html" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 18 Feb 2025 00:58:55 +0000</lastBuildDate>
+  </channel>
+</rss>
